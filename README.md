@@ -1,1 +1,1 @@
-# hybrid
+# Wordpress-on-EKS
